@@ -1,3 +1,5 @@
+> **Fork attribution:** This repository is a fork of [ahmdhsn-dev/ccaf-study-guide](https://github.com/ahmdhsn-dev/ccaf-study-guide). The 910/1000 score and first-person account below belong to the original author, not Szymon Paluch.
+
 # CCAF Study Guide (910/1000): Your Last Cheat Sheet
 
 Unofficial prep for **Claude Certified Architect - Foundations (CCAF)**. I scored **910/1000** on the exam and open-sourced the notes I used as my last cheat sheet.
